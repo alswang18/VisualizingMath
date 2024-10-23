@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Point Surface GPU
+  m_Name: Point Surface BRP GPU
   m_Shader: {fileID: 4800000, guid: 7f780c7beab4ce14881d6b683812223f, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
